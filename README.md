@@ -1,2 +1,2 @@
 # ClipSAM
-The code will coming soom!
+We will release the code when the article is accepted.
